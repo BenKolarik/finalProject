@@ -1,0 +1,40 @@
+{
+	"Version": 1,
+	"Name":
+	[
+		{
+			"Language": "en",
+			"Text": "Handheld AR"
+		}
+	],
+	"Description":
+	[
+    {
+      "Language": "en",
+      "Text": "A starting point for building Augmented Reality applications for Android and iOS devices. Includes runtime logic for toggling AR mode on and off, debug information regarding plane detection, example code for hit detection and handling light estimation."
+    }
+	],
+	"AssetTypes":
+	[
+		{
+			"Language": "en",
+			"Text": "Static Mesh"
+		}
+	],
+	"SearchTags":
+	[
+		{
+			"Language": "en",
+			"Text": "AR, Mobile, Augmented Reality"
+		}
+	],
+	"ClassTypes": "Pawn, GameMode, Widget, Actor",
+	"Category": "BlueprintFeature",
+	"FocusAsset": "/Game/Blueprints/GameFramework/BP_ARPawn.BP_ARPawn",
+	"Thumbnail": "TP_HandheldARBP.png",
+	"Screenshots":
+	[
+		"TP_HandheldARBP_Preview.png"
+	],
+	"SortKey": "TP_HandheldARBP"
+}
